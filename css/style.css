@@ -78,6 +78,8 @@
 		width: calc(100% - 400px);
 		margin-top: 10px;
 		float: left;
+		box-sizing: border-box;
+		padding: 5px;
 	}
 
 	.main .center .center1 {
