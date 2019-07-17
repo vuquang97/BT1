@@ -44,7 +44,10 @@
 
 .main .center .item {
 	width: 100%;
+	height: 100%;
+	text-overflow: ellipsis;
 	background-color: lightgray;
+	overflow: hidden;
 }
 
 .main .center .item:hover {
